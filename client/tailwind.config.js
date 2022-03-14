@@ -6,6 +6,9 @@ module.exports = {
         "slide-in": "slide-in 0.5s ease-out",
       },
     },
+    screens: {
+      mf: "990px",
+    },
   },
   plugins: [],
 };
